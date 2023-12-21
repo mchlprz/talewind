@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TALEWIND Style Guide</title>
+    <link rel="stylesheet" href="./resources/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,400;0,600;1,100&family=Roboto:wght@100;300;400&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+         <h1>TALEWIND <span id="subheader">Style Guide</span></h1>
+    </header>
+    <div class="container">
+        <h2>Colors | Branding</h2>
+        <p> These are the primary colors used by TALEWIND in all customer facing interfaces, advertising, and training materials. Black Olive, Battleship Gray, and White are to be used for large background spaces while Blue and Amethyst are used as accents.</p>
+        <div class="colors-container">
+            <div class="colors-panel white">
+                <p>White</p>
+                <p>FFFFFF</p>
+            </div>
+            <div class="colors-panel amethyst">
+                <p>Amethyst</p>
+                <p>945FBF</p>
+            </div>
+            <div class="colors-panel blue">
+                <p>Blue</p>
+                <p>130FFA</p>
+            </div>
+            <div class="colors-panel gray">
+                <p>Battleship Gray</p>
+                <p>8D887C</p>
+            </div>
+            <div class="colors-panel black">
+                <p>Black Olive</p>
+                <p>353531</p>
+            </div>
+        </div>
+        <h2>Colors | Actions</h2>
+        <p> These are the primary colors used by TALEWIND in all customer facing interfaces to indicate the state or status of an object.</p>
+        <div class="colors-container">
+            <div class="colors-panel white">
+                <p>White</p>
+                <p>FFFFFF</p>
+            </div>
+            <div class="colors-panel green">
+                <p>Emerald</p>
+                <p>32DE8A</p>
+            </div>
+            <div class="colors-panel amber">
+                <p>Xanthous</p>
+                <p>E6AF2E</p>
+            </div>
+            <div class="colors-panel red">
+                <p>Vermilion</p>
+                <p>EF3E36</p>
+            </div>
+            <div class="colors-panel black">
+                <p>Black Olive</p>
+                <p>353531</p>
+            </div>
+        </div>
+    </div>
+    <div class="fonts-container">
+        <h2>Fonts</h2>
+        <h3>Montserrat</h3>
+            <p class="m-normal">The quick brown fox jumps over the lazy dog.</p>
+            <p class="m-bold">The quick brown fox jumps over the lazy dog.</p>
+            <p class="m-italic">The quick brown fox jumps over the lazy dog.</p>
+        <h3>Roboto</h3>
+            <p class="r-normal">The quick brown fox jumps over the lazy dog.</p>
+            <p class="r-bold">The quick brown fox jumps over the lazy dog.</p>
+            <p class="r-italic">The quick brown fox jumps over the lazy dog.</p>
+    </div>
+    <div class="container">
+        <h2>Text Styles</h2>
+    </div>
+    <div class="container">
+        <h2>Word Lists</h2>
+        <h4>Words to avoid</h4>
+    </div>
+</body>
+</html>
